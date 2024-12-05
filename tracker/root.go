@@ -7,5 +7,5 @@ import (
 
 func (t *Tracker) RootHandler(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "text/plain")
-	fmt.Fprintln(w, "Open Torrent Tracker (add this retracker)")
+	fmt.Fprintln(w, "Open Torrent Retracker (add this retracker in your torrent client)")
 }
