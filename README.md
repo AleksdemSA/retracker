@@ -1,6 +1,6 @@
 # Retracker
 
-Simple torrent tracker
+Simple torrent retracker
 
 ### Build
 
